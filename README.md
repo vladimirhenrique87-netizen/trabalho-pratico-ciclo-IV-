@@ -1,7 +1,7 @@
 # Sistema de Atendimento e Pedidos em Lanchonete
 
 ## Identificação
-* **Nome do Estudante:** [Seu Nome Completo]
+* **Nome do Estudante:** [Vladimir Henrique De Resende]
 * **Disciplina:** Algoritmos e Programação
 
 ## Descrição do Projeto
